@@ -226,10 +226,7 @@ pytest tests/unit/test_evaluator.py
 本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
 
 ## 联系方式
-
-- 项目主页：[GitHub Repository](https://github.com/ml-safety-framework/multilingual-safety-evaluation)
-- 问题反馈：[Issue Tracker](https://github.com/ml-safety-framework/multilingual-safety-evaluation/issues)
-- 邮件：safety-eval@ml-framework.org
+- 邮件：olmate1@gmail.com
 
 ## 致谢
 

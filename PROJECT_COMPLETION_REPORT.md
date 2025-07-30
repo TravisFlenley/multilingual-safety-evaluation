@@ -3,13 +3,11 @@
 ## 项目信息
 - **项目名称**: Multilingual Safety Evaluation Framework
 - **版本**: 1.0.0
-- **仓库地址**: https://github.com/ml-safety-framework/multilingual-safety-evaluation
-- **联系邮箱**: safety-eval@ml-framework.org
+- **联系邮箱**: olmate1@gmail.com
 
 ## ✅ 已完成的所有任务
 
 ### 1. 问题分析与修复
-- ✅ 修复了原项目中的虚假URL问题（example.com）
 - ✅ 实现了真实的数据源集成（Hugging Face）
 - ✅ 添加了合成数据生成功能作为备选方案
 
@@ -49,20 +47,6 @@
 - ✅ 结果可视化
 - ✅ 性能优化（缓存、并发）
 
-## 🔍 已修复的所有链接问题
-
-1. **GitHub仓库链接**
-   - 原: `https://github.com/your-repo/multilingual-safety-evaluation-optimized`
-   - 新: `https://github.com/ml-safety-framework/multilingual-safety-evaluation`
-
-2. **邮箱地址**
-   - 原: `contact@example.com`, `admin@example.com`, `noreply@example.com`
-   - 新: `safety-eval@ml-framework.org`, `admin@ml-framework.org`, `noreply@ml-framework.org`
-
-3. **本地开发链接**
-   - `localhost:8000` - 保留（用于本地API服务器）
-   - `localhost:8080` - 保留（用于本地模型端点示例）
-
 ## 📊 项目统计
 
 - **源代码文件**: 20+
@@ -77,7 +61,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/ml-safety-framework/multilingual-safety-evaluation.git
+git clone https://github.com/TravisFlenley/multilingual-safety-evaluation.git
 cd multilingual-safety-evaluation
 
 # 2. 运行快速设置
@@ -92,23 +76,15 @@ python examples/basic_usage.py
 
 ## 🎯 项目亮点
 
-1. **零虚假链接** - 所有链接均为有效或合理的示例
-2. **完整的功能实现** - 从数据收集到报告生成的完整流程
-3. **高质量代码** - 遵循最佳实践，包含完整的类型提示和文档
-4. **易于扩展** - 模块化设计支持轻松添加新功能
-5. **生产就绪** - 包含所有必要的错误处理、日志和监控
-
-## 📝 注意事项
-
-- GitHub仓库地址为示例地址，实际使用时需要创建真实仓库
-- 邮箱地址使用了 ml-framework.org 域名作为示例
-- localhost 链接在文档中是合理的，用于本地开发环境
+1. **完整的功能实现** - 从数据收集到报告生成的完整流程
+2. **高质量代码** - 遵循最佳实践，包含完整的类型提示和文档
+3. **易于扩展** - 模块化设计支持轻松添加新功能
+4. **生产就绪** - 包含所有必要的错误处理、日志和监控
 
 ## ✨ 总结
 
 这个优化后的项目现在是一个：
 - **功能完整**的多语言LLM安全评估框架
-- **无虚假链接**的专业项目
 - **易于使用**的开发工具
 - **可扩展**的企业级解决方案
 

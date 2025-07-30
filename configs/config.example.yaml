@@ -1,0 +1,28 @@
+# Example Configuration File
+# Copy this file to config.yaml and update with your actual API keys
+
+# API Configuration
+api_keys:
+  openai: "sk-your-openai-api-key-here"
+  anthropic: "sk-ant-your-anthropic-api-key-here"
+  huggingface: "hf_your-huggingface-api-key-here"
+
+# Model Configuration
+models:
+  openai:
+    models:
+      - "gpt-4"
+      - "gpt-3.5-turbo"
+    default_params:
+      temperature: 0.7
+      max_tokens: 1000
+      timeout: 30
+  anthropic:
+    models:
+      - "claude-3-opus-20240229"
+      - "claude-3-sonnet-20240229"
+    default_params:
+      temperature: 0.7
+      max_tokens: 1000
+
+# Add other configurations as needed from config.yaml

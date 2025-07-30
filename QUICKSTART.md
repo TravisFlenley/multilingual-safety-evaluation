@@ -160,5 +160,5 @@ If the API won't start:
 
 For issues and questions:
 - Check the [documentation](docs/)
-- Open an issue on [GitHub](https://github.com/ml-safety-framework/multilingual-safety-evaluation)
-- Contact: support@ml-framework.org
+- Open an issue on [GitHub](https://github.com/TravisFlenley/multilingual-safety-evaluation)
+- Contact: olmate1@gmail.com

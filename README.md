@@ -16,7 +16,7 @@
 ## 项目结构
 
 ```
-multilingual-safety-evaluation-optimized/
+multilingual-safety-evaluation/
 ├── src/                    # 源代码
 │   ├── core/              # 核心功能模块
 │   ├── data/              # 数据处理模块
@@ -51,8 +51,8 @@ multilingual-safety-evaluation-optimized/
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/ml-safety-framework/multilingual-safety-evaluation.git
-cd multilingual-safety-evaluation-optimized
+git clone https://github.com/TravisFlenley/multilingual-safety-evaluation.git
+cd multilingual-safety-evaluation
 ```
 
 2. 创建虚拟环境：
